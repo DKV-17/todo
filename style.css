@@ -1,0 +1,16 @@
+body {
+  background-color: #f8f9fa;
+}
+
+#taskList li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.75rem;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+#taskList li .btn {
+  margin-left: 0.5rem;
+}
